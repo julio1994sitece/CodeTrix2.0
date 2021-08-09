@@ -1,0 +1,164 @@
+
+#bob{
+    background-color: #01072b;
+    }
+
+#a01{
+    position: absolute;
+    top:250px;
+    left:39px;
+}
+#anicent{
+    position: absolute;
+    top: 350px;
+    left: 370px;
+}
+
+#menu{
+    position: absolute;
+    left: 424px;
+    list-style: none;
+    padding: 0;
+    overflow: hidden;
+    transition: all .5s;
+    display: flex;
+    flex-direction: row;
+}
+
+#m {
+    cursor: pointer;
+    padding: 0 20px;
+    color:#265f7c;
+   }
+
+#backcadastro{
+    position: absolute;
+    top: 310px;
+    left: 245px;
+}
+#codetrix{
+    position: absolute;
+    width:300px;
+    height: 300px;
+    top: 250px;
+    left: 542px;    
+}
+#borda{
+    position: absolute;
+    width: 600px;
+    height: 350px;
+    top: 430px;
+    left: 397px;    
+}
+#aluno{
+    position: absolute;
+    top:500px;
+    left:450px;
+    color:#265f7c;
+}
+#nomealuno{
+    position: absolute;
+    top:515px;
+    left:500px;
+    width: 210px;
+    background-color:#01072b;
+    color:#265f7c;
+}
+#Nascimento{
+    position: absolute;
+    top:500px;
+    left:753px;
+    color:#265f7c;
+}
+#data{
+    position: absolute;
+    top:515px;
+    left:840px;
+    width: 100px;
+    background-color:#01072b;
+    color:#265f7c;
+}
+#documento{
+    position: absolute;
+    top:531px;
+    left:463px;
+    color:#265f7c;
+}
+#doc{
+    position: absolute;
+    top:545px;
+    left:500px;
+    width: 210px;
+    background-color:#01072b;
+    color:#265f7c;
+}
+#responsavel{
+    position: absolute;
+    top:600px;
+    left:446px;
+    color:#265f7c;
+}
+#nomeresponsavel{
+    position: absolute;
+    top:615px;
+    left:500px;
+    width: 210px;
+    background-color:#01072b;
+    color:#265f7c;
+}
+#Nascimentof{
+    position: absolute;
+    top:600px;
+    left:753px;
+    color:#265f7c;
+}
+#dataf{
+    position: absolute;
+    top:615px;
+    left:840px;
+    width: 100px;
+    background-color:#01072b;
+    color:#265f7c;
+}
+#documentof{
+    position: absolute;
+    top:630px;
+    left:463px;
+    color:#265f7c;
+}
+#docf{
+    position: absolute;
+    top:645px;
+    left:500px;
+    width: 210px;
+    background-color:#01072b;
+    color:#265f7c;
+}
+#telefone{
+    position: absolute;
+    top:630px;
+    left:774px;
+    color:#265f7c;
+}
+#numero{
+    position: absolute;
+    top:645px;
+    left:840px;
+    width: 100px;
+    background-color:#01072b;
+    color:#265f7c;
+}
+#email{
+    position: absolute;
+    top:660px;
+    left:452px;
+    color:#265f7c;
+}
+#mail{
+    position: absolute;
+    top:675px;
+    left:500px;
+    width: 210px;
+    background-color:#01072b;
+    color:#265f7c;
+}
